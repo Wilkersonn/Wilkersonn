@@ -34,7 +34,7 @@ local hacker = {
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8WZ8Y8s5Y5a4I/giphy.gif" alt="Hacker Tools GIF" width="500">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=500&imh=281&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Hacker Tools GIF" width="500" height="281">
 </div>
 
 ---
