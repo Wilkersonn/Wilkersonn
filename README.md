@@ -17,7 +17,7 @@
 ## <span style="color: #8A2BE2;">> SYS73M 1NF0</span>
 
 ```lua
-local hacker = {
+local myinformation = {
   skills = {"(g)lua", "FiveM", "Garry's Mod"},
   learning = {"C", "Shell", "Python"},
   contact = "Discord: wilkersondereretour",
