@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79ed63bb-18f3-4a65-a14d-0b1b09118e09/darmipa-c3026480-12aa-4fd2-b2f4-1a75ebf9c51d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5ZWQ2M2JiLTE4ZjMtNGE2NS1hMTRkLTBiMWIwOTExOGUwOVwvZGFybWlwYS1jMzAyNjQ4MC0xMmFhLTRmZDItYjJmNC0xYTc1ZWJmOWM1MWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KS4i6VYT-v9KoHrBrKILfK7qPzpwUkDl3djVPKh7Zh4" alt="Hacker GIF" width="480">
+  <img src="https://media.giphy.com/media/3o6Zt8WZ8Y8s5Y5a4I/giphy.gif" alt="Hacker Art GIF" width="480">
 </div>
 
 ---
@@ -34,7 +34,7 @@ local hacker = {
 </p>
 
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=500&imh=281&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Hacker Tools" width="500">
+  <img src="https://media.giphy.com/media/3o6Zt8WZ8Y8s5Y5a4I/giphy.gif" alt="Hacker Tools GIF" width="500">
 </div>
 
 ---
