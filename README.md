@@ -1,56 +1,67 @@
-<!-- Night Owl image -->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/948467195538856864/A9EC930569EF17B503715421DF610F5A591AD595/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Hacker Mask" width="200">
 </div>
 
-<!-- Header Name -->
-# 👋 ɪ'ᴍ Wilkersonn! 
-* (g)lua Developer
+# <span style="color: #00ff00;">W1LK3RS0NN</span>
 
-<!-- Start Intro -->               
-<p align="left">Je suis un développeur (g)lua passionné, spécialisé dans le développement pour FiveM et Garry's Mod. Actuellement, j'explore également C, Shell et Python.</p>
-
-- 💻 Développeur pour FiveM et Garry's Mod
-- 🌱 En train d'apprendre C, Shell, et Python
-- 📫 Contactez-moi sur Discord : wilkersondereretour
-- ⚡ Fun fact : Mon premier code en Lua était un script malveillant qui a accidentellement détruit mon propre serveur !
-
-<!-- End Intro -->
-
-<!-- Profile Count Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Wilkersonn&label=Profile%20views&color=770677&style=flat-square" alt="Wilkersonn" style="padding-right:20px;" />
+<p align="center" style="font-family: 'Courier New', monospace;">
+  <span style="color: #00ff00;">[ (g)lua Developer | FiveM & Garry's Mod Specialist ]</span>
 </p>
 
 ---
 
-<!-- Languages and Tools Section -->       
-<h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+## <span style="color: #00ff00;">> SYS73M 1NF0</span>
+
+```lua
+local hacker = {
+  skills = {"(g)lua", "FiveM", "Garry's Mod"},
+  learning = {"C", "Shell", "Python"},
+  contact = "Discord: wilkersondereretour",
+  funFact = "First Lua code: accidental self-destruct script"
+}
+```
+
+---
+
+## <span style="color: #00ff00;">> T00LS 0F TR4D3</span>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,c,py,bash,vscode,git" />
 </p>
 
-<!-- Fun Section -->
-<h2 align="center">🎉 Fᴜɴ Fᴀcts</h2>
-<p align="center">"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."</p>
+---
 
-<!-- Contribution Graph -->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wilkersonn&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" />
+## <span style="color: #00ff00;">> H4CK3R QU0T3</span>
+
+<div align="center" style="background-color: #000; padding: 10px; border: 1px solid #00ff00;">
+  <p style="color: #00ff00; font-family: 'Courier New', monospace;">
+    "Code is like humor. When you have to explain it, it's bad."
+  </p>
 </div>
 
 ---
 
-<!-- Contact Section -->
-<h2 align="center">📫 Cᴏɴᴛᴀᴄt Mᴇ</h2>
+## <span style="color: #00ff00;">> 4CT1V1TY L0G</span>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wilkersonn&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%">
+
+---
+
+## <span style="color: #00ff00;">> C0NT4CT</span>
+
 <p align="center">
   <a href="https://discord.com/users/wilkersondereretour">
-    <img src="https://img.shields.io/badge/Discord-wilkersondereretour-7289DA?style=for-the-badge&logo=discord" alt="Contact me on Discord">
+    <img src="https://img.shields.io/badge/Discord-wilkersondereretour-7289DA?style=for-the-badge&logo=discord&logoColor=00ff00&labelColor=000000&color=000000" alt="Discord">
   </a>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+---
+
+<div align="center" style="font-family: 'Courier New', monospace; color: #00ff00;">
+  <p>V1S1T0R C0UNT</p>
+  <img src="https://profile-counter.glitch.me/Wilkersonn/count.svg" alt="Visitor Count" style="background-color: #000;">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer&text=END_TRANSMISSION&fontSize=24&fontColor=000000&animation=fadeIn" width="100%">
+</div>
