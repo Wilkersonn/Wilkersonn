@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8WZ8Y8s5Y5a4I/giphy.gif" alt="Hacker Art GIF" width="480">
+  <img src="https://64.media.tumblr.com/9d19375e78d76ab3a2d6f234c4de45bc/tumblr_o7sgvg4BvJ1vqfx8oo1_500.gif" alt="Hacker Art GIF" width="491" height="209">
 </div>
 
 ---
